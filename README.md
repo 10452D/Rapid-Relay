@@ -1,18 +1,18 @@
-# --GAME NAME HERE--
+# Rapid Relay
 
-This repository holds all software developed by VEX IQ Robotics Competition (VIQRC) Team 10452G - Crumbly Cookies for the --GAME YEARS HERE-- Competition Season: --GAME NAME HERE--
+This repository holds all software developed by VEX IQ Robotics Competition (VIQRC) Team 10452D - Digital Dragons for the 2024-2025 Competition Season: Rapid Relay
 
 ## Who are we?
 
-Crumbly Cookies are a team from the [Haslett Robotics Club](https://haslettrobotics.com/) in [Haslett, Michigan, USA](https://en.wikipedia.org/wiki/Haslett,_Michigan), made up of students from throughout the [Capital Area](https://en.wikipedia.org/wiki/Lansing%E2%80%93East_Lansing_metropolitan_area). We compete in the Middle School Division of the [VEX IQ Robotics Competition](https://www.vexrobotics.com/iq/competition/viqc-current-game). We are currently in our --nth-- year of competition, and highlights of our previous seasons include:
+Digital Dragons are a team from the [Haslett Robotics Club](https://haslettrobotics.com/) in [Haslett, Michigan, USA](https://en.wikipedia.org/wiki/Haslett,_Michigan), made up of students from around the [Capital Area](https://en.wikipedia.org/wiki/Lansing%E2%80%93East_Lansing_metropolitan_area) of Michigan. We compete in the Elementary School Division of the [VEX IQ Robotics Competition](https://www.vexrobotics.com/iq/competition/viqc-current-game). We are currently in our 2nd year of competition, and highlights of our first season include:
 
-- First Season - 2022-2023: Slapshot
+- First Season - 2023-2024: Full Volume
   - All members of the team brand-new to robotics
-  - Design Award Winner at the [Charlotte](https://www.michigan.gov/leo/-/media/Project/Websites/leo/MP3/BSBP-BTBL4/CHARLOTTE.mp3) ES/MS VEX IQ Slapshot Tournament (Qualifying for the Michigan State Championship)
-  - Judges Award Winner at the Mid-Michigan VEX IQ ES/MS Slapshot Tournament at Haslett
-  - Build Award Winner at the River Raisin/Knabusch VIQC Slapshot MS MI State Championship (Qualifying for the VEX Robotics World Championship)
-  - Ranked 32nd out of 110 (71st Percentile) in Robot Skills among Michigan Middle School Teams
-  - Ranked 1447th out of 4646 (69th Percentile) in Robot Skills amont Middle School Teams Globally
+  - Judges Award Winners at the [Allendale Robotics Full Volume Tournament](https://www.robotevents.com/robot-competitions/vex-iq-competition/RE-VIQRC-23-2982.html#general-info), our very first tournament
+  - Excellence Award and Teamwork 2nd Place Award Winners at the [Grand Ledge Full Volume Tournament](https://www.robotevents.com/robot-competitions/vex-iq-competition/RE-VIQRC-23-4056.html#general-info), qualifying for the Michigan Elementary School State Championship
+  - Finished 35th out of 58 at the Michigan Elementary School State Championship
+  - Ranked 92nd out of 197 (53rd Percentile) in Robot Skills among Michigan Elementary School Teams
+  - Ranked 3,011th out of 7,035 (58th Percentile) in Robot Skills among Elementary School Teams Globally
 
 ## What's here?
 
